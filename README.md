@@ -192,7 +192,5 @@ Priyanka Chandra
 B.Tech CSE | AI • Data Science • Machine Learning • Analytics
 
 GitHub:
-(Add profile link)
+(https://github.com/Chaandraa)
 
-LinkedIn:
-(Add profile link)
