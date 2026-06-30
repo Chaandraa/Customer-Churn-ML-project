@@ -1,0 +1,28 @@
+# Virtual Environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Saved Models
+models/
+*.joblib
+*.pkl
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
