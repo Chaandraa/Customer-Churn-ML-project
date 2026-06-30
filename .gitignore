@@ -26,3 +26,9 @@ models/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Ignore datasets
+data/
+
+# Keep folder structure
+!data/.gitkeep
